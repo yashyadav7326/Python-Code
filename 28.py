@@ -1,3 +1,3 @@
  #logical operator
-print(not("true")) #yeh true ko false kar deta hai aur jo false hai woo false rahega
+print(not("true")) #yeh revers kar deta hai ture ko fals aur false ko ture kar deta hai
 print(not("false"))
