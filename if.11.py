@@ -7,4 +7,3 @@ elif(colour=="blue"):
     print("sky")
 else:
     print("not a colour")    
-
