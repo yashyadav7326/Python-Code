@@ -6,5 +6,5 @@ elif (marks >= 80 and marks < 90):
 elif (marks >=20 and marks <80):
   print("C")
 else :
-  print("fail")  
+  print("fail") 
 
